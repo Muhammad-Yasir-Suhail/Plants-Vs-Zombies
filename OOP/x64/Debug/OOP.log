@@ -1,0 +1,271 @@
+﻿  classes_Lawn.cpp
+  classes_Levels.cpp
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Lawn.cpp(18,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Lawn.cpp(28,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Lawn.cpp(28,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Lawn.cpp(72,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Lawn.cpp(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Lawn.cpp(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Cards.h(130,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Cards.h(135,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Cards.h(135,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Cards.h(166,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Bullet.h(88,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Bullet.h(88,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(27,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(41,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(42,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(48,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(48,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(83,18): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(91,18): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(94,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(94,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(100,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(105,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(37,18): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(39,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(39,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(50,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(50,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Levels.cpp')
+  
+  classses_Score.cpp
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Cards.h(130,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classses_Score.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Cards.h(135,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classses_Score.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Cards.h(135,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classses_Score.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Cards.h(166,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classses_Score.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classses_Score.cpp(152,21): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classses_Score.cpp(152,21): warning C4305:         with
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classses_Score.cpp(152,21): warning C4305:         [
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classses_Score.cpp(152,21): warning C4305:             _Elem=char
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classses_Score.cpp(152,21): warning C4305:         ]
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classses_Score.cpp(152,21): warning C4309: 'argument': truncation of constant value
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classses_Score.cpp(163,52): warning C4042: 'scores': has bad storage class
+  Source.cpp
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Cards.h(130,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Cards.h(135,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Cards.h(135,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Cards.h(166,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Bullet.h(88,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Bullet.h(88,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(27,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(41,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(42,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(48,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(48,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(83,18): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(91,18): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(94,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(94,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(100,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(105,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(37,18): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(39,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(39,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(50,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(50,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Header.h(69,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Header.h(76,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Header.h(95,13): warning C4551: function call missing argument list
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Header.h(159,52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Header.h(160,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Header.h(163,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Header.h(180,14): warning C4552: '+': result of expression not used
+  (compiling source file 'Source.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Source.cpp(48,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Source.cpp(70,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Source.cpp(119,24): warning C4551: function call missing argument list
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Source.cpp(121,32): warning C4551: function call missing argument list
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Source.cpp(243,20): warning C4551: function call missing argument list
+  classes_Zombies.cpp
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Bullet.h(88,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Bullet.h(88,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(27,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(41,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(42,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(48,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(48,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(83,18): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(91,18): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(94,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(94,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(100,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\Sun.h(105,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(37,18): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(39,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(39,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(50,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Plants.h(50,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'classes_Zombies.cpp')
+  
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(11,11): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(30,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(41,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(41,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(88,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(89,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(96,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(96,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(209,11): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(210,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(217,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(217,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(312,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(313,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(320,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(320,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(354,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(373,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(416,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(416,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(462,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(463,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(470,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(470,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(673,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(683,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\OOP\classes_Zombies.cpp(683,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  OOP.vcxproj -> C:\Users\user\Desktop\Desktop stuff\Semesters Work\Preiouv sems\i230701_i230793_i230566\x64\Debug\OOP.exe
